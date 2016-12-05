@@ -5,32 +5,32 @@
   <parent>
     <groupId>experimental.maven</groupId>
     <artifactId>customer-3</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
   </parent>
   <packaging>war</packaging>
   <artifactId>bundle-customer-3</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 
   <dependencies>
     <dependency>
       <groupId>experimental.maven</groupId>
       <artifactId>backend</artifactId>
-      <version>1.0</version>
+      <version>1.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>experimental.maven</groupId>
       <artifactId>backend-extension-customer-3</artifactId>
-      <version>1.0</version>
+      <version>1.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>experimental.maven</groupId>
       <artifactId>frontend</artifactId>
-      <version>1.0</version>
+      <version>1.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>experimental.maven</groupId>
       <artifactId>frontend-extension-customer-3</artifactId>
-      <version>1.0</version>
+      <version>1.1-SNAPSHOT</version>
     </dependency>
   </dependencies>
 

@@ -3,12 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>customer-3</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <parent>
     <groupId>experimental.maven</groupId>
     <artifactId>customers</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
   </parent>
   <modules>
     <module>backend-extension-customer-3</module>
@@ -19,12 +19,12 @@
     <dependency>
       <groupId>experimental.maven</groupId>
       <artifactId>backend</artifactId>
-      <version>1.0</version>
+      <version>1.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>experimental.maven</groupId>
       <artifactId>frontend</artifactId>
-      <version>1.0</version>
+      <version>1.1-SNAPSHOT</version>
     </dependency>
   </dependencies>
 </project>

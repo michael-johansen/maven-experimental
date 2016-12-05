@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>experimental.maven</groupId>
   <artifactId>root</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
     <module>backend</module>
@@ -12,7 +12,7 @@
   </modules>
   <scm>
     <connection>scm:git:git@github.com:michael-johansen/maven-experimental.git</connection>
-    <tag>root-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <build>
     <defaultGoal>deploy</defaultGoal>
